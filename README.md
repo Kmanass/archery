@@ -1,2 +1,1 @@
-# archery
-wwerfdsgdfgdfhgfh
+# project-C26-template
